@@ -1,3 +1,3 @@
 Time resolution is 1 ps
-         8 tests completed with          0 errors
-$stop called at time : 95 ns : File "C:/Users/017978376/lab1_nn/lab1_nn.srcs/sim_1/new/testbench.sv" Line 73
+         9 tests completed with          0 errors
+$stop called at time : 105 ns : File "C:/Users/017978376/lab1_nn/lab1_nn.srcs/sim_1/new/testbench_aludec.sv" Line 47

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Sep 18 20:16:34 2026
+# Process ID         : 11152
+# Current directory  : C:/Users/017978376/lab1_nn/lab1_nn.runs/impl_1
+# Command line       : vivado.exe -log aludec.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source aludec.tcl -notrace
+# Log file           : C:/Users/017978376/lab1_nn/lab1_nn.runs/impl_1/aludec.vdi
+# Journal file       : C:/Users/017978376/lab1_nn/lab1_nn.runs/impl_1\vivado.jou
+# Running On         : COE-EE-E387-11
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-14700
+# CPU Frequency      : 2112 MHz
+# CPU Physical cores : 20
+# CPU Logical cores  : 28
+# Host memory        : 16851 MB
+# Swap memory        : 13421 MB
+# Total Virtual      : 30273 MB
+# Available Virtual  : 10969 MB
+#-----------------------------------------------------------
+source aludec.tcl -notrace
